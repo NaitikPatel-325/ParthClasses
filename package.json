@@ -13,10 +13,9 @@
   },
   "scripts": {
     "dev": "SET NODE_OPTIONS=--openssl-legacy-provider && react-scripts start",
-    "build": "SET NODE_OPTIONS=--openssl-legacy-provider && react-scripts build",
     "test": "react-scripts test",
-    "test:e2e":"npm run test",
-    "test:e2e:build":"npm run build",
+    "build": "babel src -d lib",
+    "prebuild": "jest",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
