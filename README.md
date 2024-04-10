@@ -1,34 +1,41 @@
-# React JS Landing Page Template
+# Offline Classes Platform
 
-**
+This project is a platform for conducting offline classes, focusing on in-person interaction and regular assessments through weekly tests. It caters to learners who prefer physical classrooms and face-to-face teaching methods.
 
-# 🛎️🛎️ Good news! New & improved [V2](https://github.com/issaafalkattan/react-landing-page-template-2021) is out  
+## Overview
 
-**
+The Offline Classes Platform provides an opportunity for learners to engage in traditional classroom settings, with emphasis on interactive learning and regular assessments. By offering physical resources and flexible scheduling, the platform aims to create a conducive environment for effective learning.
 
+## Features
 
-### <a href="https://react-landing-page-template-93ne.vercel.app/">LIVE DEMO</a> 
+- **Weekly Tests**: Participate in regular tests held every weekend to assess understanding and track progress.
+- **Physical Resources**: Access to physical textbooks, workbooks, and supplementary materials to support learning outside of digital platforms.
+- **Flexible Scheduling**: Offer flexible class schedules that accommodate diverse learners, allowing for better time management and attendance.
 
-## Description
-This is a ReactJS based landing page template, fit for a startup company/service with a one page view. The design is inspired by a template from <a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
-All 'visual' data can be easily modified by changing the data.json file.
+## Usage
 
-## Make it Yours!
-### 1. Preps
-You will need to have <a href="https://nodejs.org/">Node JS</a> installed on your pc. 
+1. **Enrollment**: Enroll in the offline classes by contacting the administration or visiting the physical location.
+2. **Attendance**: Attend classes according to the scheduled timings.
+3. **Learning**: Engage in face-to-face interaction with instructors and peers, and utilize physical resources provided for learning.
+4. **Assessment**: Prepare for and participate in weekly tests to evaluate your understanding and progress.
 
-### 2. Clone Files
-After cloning the files, you will have to run ```yarn``` followed by ```yarn start``` in the CLI
-### 3. Add your own data 
-Change the data in the ```data.json``` file as well as add any images to ```public/img/```
-You can also change styles by modifying the ```public/css``` files.
-If you need the contact form to work, you also need to create an EmailJS account, and modify the ```src/components/contact.jsx``` file to replace your own service ID, template ID and Public Key
+## Installation
 
-## Like this project?
-<a href="https://www.buymeacoffee.com/issaaf">Buy my a coffee ☕️</a>
+To set up the project, follow these steps:
 
-## Credits
-##### Free CSS 
-<a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
+1. Install dependencies by running:
+    ```
+    npm i
+    ```
 
-##### Issaaf kattan
+2. Start the application by running:
+    ```
+    npm run start
+    ```
+
+No additional installation is required for this offline classes platform. Simply enroll and attend the classes at the designated location.
+
+## Contributors
+
+- Naitik Patel
+- np03022005@gmail.com
