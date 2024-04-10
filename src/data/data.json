@@ -106,33 +106,31 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "H.K Patel",
+      "img": "img/team/gi.jpg",
+      "name": "G.I. Patel",
+      "job": "Eco B/A S.S Teacher"
+    },
+    {
+      "img": "img/team/hk.jpg",
+      "name": "H.K. Patel",
       "job": "A/C Stat Teacher"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "G . I Patel",
-      "job": "Eco B/A Teacher"
-    },
-    {
-      "img": "img/team/03.jpg",
-      "name": "Jitubhai prajapati",
+      "img": "img/team/jp.jpg",
+      "name": "Jitubhai Prajapati",
       "job": "Maths Science Teacher"
     },
     {
-      "img": "img/team/04.jpg",
+      "img": "img/team/cb.jpg",
       "name": "Chirag Barot",
       "job": "English Teacher"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "402 , Avadh Pride , Opp. Metro Pillar No 141 , Vastral Road , Ahmedabad - 382418 ",
+    "phone": "+91 8488804077 , +91 9824895473",
+    "email": "parthclasses2001@gmail.com",
+    "youtube": "https://youtube.com/@parthclasses8670"
   },
   "Features": [
     {
