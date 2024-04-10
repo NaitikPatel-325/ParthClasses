@@ -1,0 +1,124 @@
+{
+  "Header": {
+    "title": "We are Teachers",
+    "paragraph": "Great minds are nurtured by great teachers. A student's success is a teacher's victory. Teachers: Unleashing the power of knowledge. If you can read this, thank your first teachers."
+  },
+  "About": {
+    "paragraph": "We are a team of dedicated educators who believe in the power of knowledge. Our mission is to provide quality education to all students, regardless of background or circumstance. We believe that every child has the potential to succeed, and we are committed to helping them reach their full potential. Our team of experienced teachers and staff work tirelessly to create a safe and supportive learning environment where students can thrive. We offer a wide range of programs and services to meet the needs of all learners, and we are always looking for new ways to improve and innovate. At We Are Teachers, we are dedicated to helping every student succeed, and we are proud to be a part of their journey to greatness.",
+    "Why": [
+      "Good Teachers ",
+      "Great Teachers",
+      "Excellent Teachers",
+      "Outstanding Teachers"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "HSC_2020_Result",
+      "largeImage": "img/portfolio/HSC_2020_small.jpg",
+      "smallImage": "img/portfolio/HSC_2020_large.jpg"
+    },
+    {
+      "title": "HSC_2019_Result",
+      "largeImage": "img/portfolio/HSC_2019_small.jpg",
+      "smallImage": "img/portfolio/HSC_2019_large.jpg"
+    },
+    {
+      "title": "SSC_2019_Result",
+      "largeImage": "img/portfolio/SSC_2019_small.jpg",
+      "smallImage": "img/portfolio/SSC_2019_large.jpg"
+    }
+  ],
+
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "H.K Patel",
+      "job": "A/C Stat Teacher"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "G . I Patel",
+      "job": "Eco B/A Teacher"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jitubhai prajapati",
+      "job": "Maths Science Teacher"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Chirag Barot",
+      "job": "English Teacher"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-users",
+      "title": "In-Person Interaction",
+      "text": "Engage in face-to-face interaction with instructors and peers, fostering a collaborative learning environment."
+    },
+    {
+      "icon": "fa fa-graduation-cap",
+      "title": "Weekly Tests",
+      "text": "Participate in regular tests held every weekend to assess understanding and track progress."
+    },    
+    {
+      "icon": "fa fa-book",
+      "title": "Physical Resources",
+      "text": "Access to physical textbooks, workbooks, and supplementary materials to support learning outside of digital platforms."
+    },
+    {
+      "icon": "fa fa-clock-o",
+      "title": "Flexible Scheduling",
+      "text": "Offer flexible class schedules that accommodate diverse learners, allowing for better time management and attendance."
+    }
+  ]
+
+}
