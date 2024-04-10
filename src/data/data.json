@@ -4,35 +4,71 @@
     "paragraph": "Great minds are nurtured by great teachers. A student's success is a teacher's victory. Teachers: Unleashing the power of knowledge. If you can read this, thank your first teachers."
   },
   "About": {
-    "paragraph": "We are a team of dedicated educators who believe in the power of knowledge. Our mission is to provide quality education to all students, regardless of background or circumstance. We believe that every child has the potential to succeed, and we are committed to helping them reach their full potential. Our team of experienced teachers and staff work tirelessly to create a safe and supportive learning environment where students can thrive. We offer a wide range of programs and services to meet the needs of all learners, and we are always looking for new ways to improve and innovate. At We Are Teachers, we are dedicated to helping every student succeed, and we are proud to be a part of their journey to greatness.",
+    "paragraph": "We are providing quality education since 2000 We are a team of dedicated educators who believe in the power of knowledge. Our mission is to provide quality education to all students, regardless of background or circumstance. We believe that every child has the potential to succeed, and we are committed to helping them reach their full potential. Our team of experienced teachers and staff work tirelessly to create a safe and supportive learning environment where students can thrive. We offer a wide range of programs and services to meet the needs of all learners, and we are always looking for new ways to improve and innovate. At We Are Teachers, we are dedicated to helping every student succeed, and we are proud to be a part of their journey to greatness.",
     "Why": [
-      "Good Teachers ",
-      "Great Teachers",
-      "Excellent Teachers",
-      "Outstanding Teachers"
+      "Quality Education",
+      "Experienced Teachers",
+      "Attendance and results will be informed to parents via SMS",
+      "Board exam rehearsal will be arranged for Board students",
+      "Limited Students in a Batch"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Additional Classes for Board Students will be arranged",
+      "Weekly Tests",
+      "Smart Classrooms",
+      "Extra classes will be arranged for weak students",
+      "AC Classes"
     ]
   },
   "Gallery": [
     {
-      "title": "HSC_2020_Result",
-      "largeImage": "img/portfolio/HSC_2020_small.jpg",
-      "smallImage": "img/portfolio/HSC_2020_large.jpg"
+      "title": "Classroom",
+      "largeImage": "img/portfolio/class_front_large.jpg",
+      "smallImage": "img/portfolio/class_front_small.jpg"
     },
     {
-      "title": "HSC_2019_Result",
-      "largeImage": "img/portfolio/HSC_2019_small.jpg",
-      "smallImage": "img/portfolio/HSC_2019_large.jpg"
+      "title": "SSC 2008 To 2019 Topper",
+      "largeImage": "img/portfolio/ssc_allyear_large.jpg",
+      "smallImage": "img/portfolio/ssc_allyear_small.jpg"
+    },
+    {
+      "title": "HSC 2011 To 2019 Topper",
+      "largeImage": "img/portfolio/hsc_allyear_large.jpg",
+      "smallImage": "img/portfolio/hsc_allyear_small.jpg"
     },
     {
       "title": "SSC_2019_Result",
-      "largeImage": "img/portfolio/SSC_2019_small.jpg",
-      "smallImage": "img/portfolio/SSC_2019_large.jpg"
+      "largeImage": "img/portfolio/SSC_2019_large.jpg",
+      "smallImage": "img/portfolio/SSC_2019_small.jpg"
+    },
+    {
+      "title": "HSC_2019_Result",
+      "largeImage": "img/portfolio/HSC_2019_large.jpg",
+      "smallImage": "img/portfolio/HSC_2019_small.jpg"
+    },
+    {
+      "title": "SSC_2020_Result",
+      "largeImage": "img/portfolio/SSC_2020_large.jpg",
+      "smallImage": "img/portfolio/SSC_2020_small.jpg"
+    },
+    {
+      "title": "HSC_2020_Result",
+      "largeImage": "img/portfolio/HSC_2020_large.jpg",
+      "smallImage": "img/portfolio/HSC_2020_small.jpg"
+    },{
+      "title": "SSC_HSC_2022_Result",
+      "largeImage": "img/portfolio/SSC_2022_large.jpg",
+      "smallImage": "img/portfolio/SSC_2022_small.jpg"
+    },
+    {
+      "title": "HSC_2023_Result",
+      "largeImage": "img/portfolio/HSC_2023_large.jpg",
+      "smallImage": "img/portfolio/HSC_2023_small.jpg"
+    },
+    {
+      "title": "HSC_2023_TOPPER",
+      "largeImage": "img/portfolio/HSC_2023_topper_large.jpg",
+      "smallImage": "img/portfolio/HSC_2023_topper_small.jpg"
     }
   ],
 
@@ -102,7 +138,7 @@
     {
       "icon": "fa fa-users",
       "title": "In-Person Interaction",
-      "text": "Engage in face-to-face interaction with instructors and peers, fostering a collaborative learning environment."
+      "text": "You can directly interact with teachers and peers"
     },
     {
       "icon": "fa fa-graduation-cap",
@@ -112,7 +148,7 @@
     {
       "icon": "fa fa-book",
       "title": "Physical Resources",
-      "text": "Access to physical textbooks, workbooks, and supplementary materials to support learning outside of digital platforms."
+      "text": "Access to supplementary materials to support learning outside of digital platforms."
     },
     {
       "icon": "fa fa-clock-o",
