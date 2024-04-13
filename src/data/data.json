@@ -107,23 +107,31 @@
   "Team": [
     {
       "img": "img/team/gi.jpg",
-      "name": "G.I. Patel",
-      "job": "Eco B/A S.S Teacher"
+      "name": "G. I. Patel",
+      "job": "Eco B/A S.S Teacher",
+      "Qualification": "M.A. B.Ed",
+      "Experience": "28 Years"
     },
     {
       "img": "img/team/hk.jpg",
-      "name": "H.K. Patel",
-      "job": "A/C Stat Teacher"
+      "name": "H. K. Patel",
+      "job": "A/C Stat Teacher",
+      "Qualification": "M.COM. B.Ed",
+      "Experience": "24 Years"
     },
     {
       "img": "img/team/jp.jpg",
       "name": "Jitubhai Prajapati",
-      "job": "Maths Science Teacher"
+      "job": "Maths Science Teacher",
+      "Qualification": "B.Sc. B.Ed",
+      "Experience": "32 Years"
     },
     {
       "img": "img/team/cb.jpg",
       "name": "Chirag Barot",
-      "job": "English Teacher"
+      "job": "English Teacher",
+      "Qualification": "M.A. B.Ed",
+      "Experience": "23 Years"
     }
   ],
   "Contact": {

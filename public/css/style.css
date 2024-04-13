@@ -604,3 +604,26 @@ label {
     margin: 50px 0;
   }
 }
+
+.logo-image {
+  height: 42px; 
+}
+
+.navbar-bran {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #333; /* Text color */
+  font-size: 1.25rem; /* Font size */
+}
+
+.navbar-bran img {
+  margin-right: 8px; 
+}
+
+.nav-cke{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: x-large
+}

@@ -19,7 +19,10 @@ export const Team = (props) => {
                     <img src={d.img} alt="..." className="team-img" />
                     <div className="caption">
                       <h4>{d.name}</h4>
-                      <p>{d.job}</p>
+                      <span>{d.job}</span>
+                      <br></br>
+                      <span>{d.Qualification}</span>
+                      <p>{d.Experience}</p>
                     </div>
                   </div>
                 </div>

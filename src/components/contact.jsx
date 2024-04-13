@@ -4,11 +4,11 @@ import React from "react";
 
 const initialState = {
   name: "",
-  email: "",
+  mobileno: "",
   message: "",
 };
 export const Contact = (props) => {
-  const [{ name, email, message }, setState] = useState(initialState);
+  const [{ name, mobileno, message }, setState] = useState(initialState);
 
   const handleChange = (e) => {
     const { name, value } = e.target;
@@ -19,11 +19,11 @@ export const Contact = (props) => {
   
   const handleSubmit = (e) => {
     e.preventDefault();
-    console.log(name, email, message);
+    console.log(name, mobileno, message);
     
     
     emailjs
-      .sendForm("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", e.target, "YOUR_PUBLIC_KEY")
+      .sendForm("service_mfr866m", "template_0uo2lcg", e.target, "PMqM-xSzmFEOtHfYh")
       .then(
         (result) => {
           console.log(result.text);
@@ -63,14 +63,15 @@ export const Contact = (props) => {
                       <p className="help-block text-danger"></p>
                     </div>
                   </div>
+                  
                   <div className="col-md-6">
                     <div className="form-group">
                       <input
-                        type="email"
-                        id="email"
-                        name="email"
+                        type="tel"
+                        id="mobileno"
+                        name="mobileno"
                         className="form-control"
-                        placeholder="Email"
+                        placeholder="mobileno"
                         required
                         onChange={handleChange}
                       />
@@ -142,8 +143,8 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2023 Naitik Patel Parth Classes
-          </p>
+            &copy; 2024 Parth Classes developed by Naitik Patel
+           </p>
         </div>
       </div>
     </div>
