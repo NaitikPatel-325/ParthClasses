@@ -143,7 +143,7 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2024 Parth Classes developed by Naitik Patel
+              Developed By Naitik Patel 2024 © Parth Classes .
            </p>
         </div>
       </div>
