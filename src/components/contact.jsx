@@ -13,7 +13,7 @@ export const Contact = (props) => {
   const handleChange = (e) => {
     const { name, value } = e.target;
     setState((prevState) => ({ ...prevState, [name]: value }));
-  };
+  };  
   const clearState = () => setState({ ...initialState });
   
   
@@ -59,7 +59,7 @@ export const Contact = (props) => {
                         placeholder="Name"
                         required
                         onChange={handleChange}
-                      />
+                      />  
                       <p className="help-block text-danger"></p>
                     </div>
                   </div>

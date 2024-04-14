@@ -75,33 +75,23 @@
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "From 8th to 10th grade, I studied at Prth Classes. During this time, I received valuable guidance from my teachers, which ultimately led me to pursue a career as a doctor. Now, I am proud to own my hospital, 408 Sarthi Hospital.",
+      "name": "Dr. Raj Patel"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "From 8th to 10th grade, I studied at Prth Classes. During this time, I received valuable guidance from my teachers, which ultimately led me to pursue a career as a doctor.",
+      "name": "Dr. Nehal Prajapati"
     },
-    {
+    { 
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "From 8th to 10th grade, I studied at Prth Classes. During this time, I received valuable guidance from my teachers, which ultimately led me to pursue a career as an orthopedic surgeon.",
+      "name": "Dr. Vijay Dangar"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "From 8th to 12th grade, I studied at Prth Classes. During this time, I received valuable guidance from my teachers, which ultimately led me to pursue a career as a chartered accountant.",
+      "name": "CA. Nikita Agrawal"
     }
   ],
   "Team": [
@@ -123,7 +113,7 @@
       "img": "img/team/jp.jpg",
       "name": "Jitubhai Prajapati",
       "job": "Maths Science Teacher",
-      "Qualification": "B.Sc. B.Ed",
+      "Qualification": "M.Sc B.Ed",
       "Experience": "32 Years"
     },
     {
